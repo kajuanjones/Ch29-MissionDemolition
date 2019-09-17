@@ -7,7 +7,7 @@ public class Slingshot : MonoBehaviour
     [Header("Set int Inspector")]
 
     public GameObject prefabProjectile;
-    public float velocityMult = Sf;
+    public float velocityMult = 8f;
 
 
     [Header("Set Dynamically")]
